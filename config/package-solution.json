@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "spfx-fluentui-dialog-client-side-solution",
+    "id": "7b8da3a8-5d32-4422-aa9f-13dffd643835",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.17.4"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "spfx-fluentui-dialog description"
+      },
+      "longDescription": {
+        "default": "spfx-fluentui-dialog description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "spfx-fluentui-dialog Feature",
+        "description": "The feature that activates elements of the spfx-fluentui-dialog solution.",
+        "id": "b6a18580-3dda-4855-9826-5cb63f33743f",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/spfx-fluentui-dialog.sppkg"
+  }
+}
